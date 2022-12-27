@@ -11,7 +11,7 @@ Gossip-type algorithms can be used both for group communication and for aggregat
 ## Execution
 
 **Compile:** ```c(project2).```   
-**Execute:** ``` project2:main(N, Topology, Algorithm, T).```   
+**Execute:** ```project2:main(N, Topology, Algorithm, T).```   
 * *N - Network Size (Number of Nodes)*  
 * *Topology - Topology to use for the simulation*  
 * *Algorithm - Algorithm to be simulated*  
@@ -19,5 +19,5 @@ Gossip-type algorithms can be used both for group communication and for aggregat
 
 ## Reports 
   
-Main Report  
-Bonus Implementation
+[Main Report](https://github.com/pranath-reddy/COP5615-Gossip/blob/main/Report.pdf)  
+[Bonus Implementation](https://github.com/pranath-reddy/COP5615-Gossip/blob/main/Report-bonus.pdf)
